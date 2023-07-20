@@ -154,7 +154,7 @@ _G.ConfigMain = {
 
     -- Raids
     ["Select Raids"] = "Quake", -- "Flame","Ice","Quake","Light","Dark","String","Rumble","Magma","Human: Buddha","Sand"
-    ["Auto Raids Hop"] = true,
+    ["Auto Raids Hop"] = false,
 
     -- Devil Fruit Zone
     ["Auto Store Fruits"] = true,
