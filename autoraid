@@ -157,7 +157,7 @@ _G.ConfigMain = {
     ["Auto Raids Hop"] = true,
 
     -- Devil Fruit Zone
-    ["Auto Store Fruits"] = false,
+    ["Auto Store Fruits"] = true,
     ["Bring Devil Fruit"] = true,
     ["Auto Random Devil Fruit"] = true,
 
